@@ -1,0 +1,1 @@
+Total count of elements of A found after removal and readdition of elements in the filter 505
